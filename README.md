@@ -14,7 +14,7 @@ MIMI is a cutting-edge, self-operating trading agent built on the Solana blockch
 
 ### **On the Web Interface**
 
-1. Navigate to the [MIMI Trading Platform](https://mimiai.io).
+1. Navigate to the [MIMI Homepage](https://mimiai.io).
 2. Start chatting with MIMI.
 3. Grab any Solana contract address.
 4. Allow MIMI to analyze the contract and give real-time market data relating to it.
