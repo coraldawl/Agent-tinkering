@@ -8,9 +8,6 @@ MIMI is a cutting-edge, self-operating trading agent built on the Solana blockch
 2. **Data Analysis with LLMs**: Extracts trends and insights from social media, market discussions, and community signals.
 3. **Autonomous Learning**: Improves with every trade, enabling smarter decision-making.
 4. **Blockchain Integration**: Ensures transparency with on-chain logs on Solana.
-5. **Wallet Interaction**: Monitors wallet activity and transactions to optimize strategies.
-6. **Autonomous Tweeting**: Keeps the community updated with trading insights via social platforms.
-
 ---
 
 ## How to Use MIMI
