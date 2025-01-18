@@ -1,5 +1,7 @@
 # MIMI: Mindful - Interactive - Mechanized - Intelligence
 
+![](https://i.ibb.co/zmJSZkL/segsgee.webp)
+
 MIMI is a cutting-edge, self-operating trading agent built on the Solana blockchain. Leveraging machine learning, neural networks, and large language models (LLMs), MIMI autonomously gives advice and details on token trades and continuously learns to optimize its databank. Whether you're a DeFi enthusiast or a casual trader, MIMI provides insightful analytics and seamless interaction with the blockchain.
 
 ## Features
